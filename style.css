@@ -1,0 +1,51 @@
+* {
+
+	font-family: "Arial", "Calibri";
+
+
+}
+
+
+th{
+	height: 50px;
+	width:50px;
+	border-width: 1px;
+	border-color: #000000;
+	border-style: solid;
+
+}
+
+td{
+	height: 50px;
+	width:50px;
+	border-width: 1px;
+	border-color: #000000;
+	border-style: solid;
+
+}
+
+.tableHeader{
+	font-weight: 900;
+	background-color: red;
+
+}
+
+.riskTitle{
+	background-color: blue;
+	font-size: 12px;
+
+}
+
+.plot{
+	background-color: orange;
+
+}
+
+.three{
+	background-color: yellow;
+
+}
+
+.bar{
+	
+}
